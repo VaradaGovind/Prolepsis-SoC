@@ -1,0 +1,95 @@
+# Vivado and Hardware Build Artifacts
+.Xil/
+build/
+Build/
+reports/
+Logs/
+Audit_Reports/
+Script_Reports/
+*.jou
+*.log
+*.pb
+*.wdb
+*.wcfg
+*.str
+*.zip
+*.dcp
+*.bit
+*.bin
+*.rpt
+*.rpx
+*.vdi
+*.vds
+*.wdf
+*.hwdef
+*.sysdef
+*.hdf
+
+# Editor / IDE
+.vscode/
+.specstory/
+*.code-workspace
+*.bak
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Documentation Guides, Drafts & Internal Notes
+Documentation/Guides/
+Documentation/Paper/
+Documentation/Images/
+Documentation/Status_and_Summaries/
+Documentation/Reference/FOLDER_STRUCTURE.md
+Documentation/Reference/MESSAGING_QUICK_REFERENCE.md
+Documentation/Reference/QUICK_REFERENCE.md
+
+# Internal Evaluation, Paper Extraction & Diagnostic Scripts
+scripts/compute_kalman_metrics.py
+scripts/extract_all_metrics.py
+scripts/inspect_paper_tables.py
+scripts/parse_synth_lines.py
+scripts/plot_paper_curves.py
+scripts/extract_thermal_curves.ps1
+scripts/organize_generated_files.ps1
+scripts/run_compliance.ps1
+scripts/run_phase7_regression.ps1
+scripts/run_prolepsis_pareto_sweep.ps1
+scripts/diagnose_execution.tcl
+scripts/setup/
+
+# Presentations & Guides (Do not push to GitHub)
+*.pptx
+Full_Paper_template_pptx.pptx
+PRESENTATION_GUIDE.md
+*Presentation*
+*presentation*
+Images/Slide9_Results_Chart.png
+
+
+# LaTeX build artifacts (Documentation)
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.out
+*.toc
+*.lof
+*.lot
+*.xdv
+
+# Simulation Environments & Standalone Sim Output
+sim_envs/
+sim_*
+sim_build/
+
+# Generated Runtime/Hex files
+boot.hex
+dfx_runtime.txt
+
+# Private technical explanation notes (do not push)
+explaination.tex
+explaination.pdf

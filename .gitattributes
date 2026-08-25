@@ -1,0 +1,4 @@
+# GitHub Linguist language classification
+# The maintained design and verification trees use IEEE 1800 SystemVerilog.
+*.sv linguist-language=SystemVerilog
+

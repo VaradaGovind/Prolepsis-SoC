@@ -1,0 +1,61 @@
+Prolepsis Source-Available Non-Commercial Hardware License (v1.0)
+Copyright (c) 2026 Varada Govind Aakula. All rights reserved.
+
+==============================================================================
+1. GRANT OF LICENSE
+==============================================================================
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this hardware design, SystemVerilog/Verilog source code, simulation models,
+testbenches, constraints, and associated documentation (the "IP Core / Software"),
+to inspect, simulate, study, modify, and use the IP Core exclusively for 
+Non-Commercial Purposes (defined as academic research, educational instruction,
+personal non-profit experimentation, and peer review).
+
+==============================================================================
+2. COMMERCIAL RESTRICTIONS
+==============================================================================
+Any Commercial Use of the IP Core, in whole or in part, is STRICTLY PROHIBITED
+without prior explicit written authorization and a commercial licensing 
+agreement executed directly with the Copyright Holder.
+
+Commercial Use includes, but is not limited to:
+  a. Synthesis, mapping, gate-level netlist generation, fabrication, or tape-out
+     of physical silicon, ASICs, or System-on-Chip (SoC) architectures.
+  b. Generation and deployment of commercial FPGA bitstreams or revenue-generating
+     hardware systems.
+  c. Integration into proprietary or commercial IP bundles, EDA vendor libraries,
+     or commercial microarchitectural blocks.
+  d. Offering commercial design, verification, consulting, or cloud hardware
+     emulation services utilizing this IP Core.
+
+==============================================================================
+3. DUAL-LICENSING & COMMERCIAL INQUIRIES
+==============================================================================
+This project is made available under a dual-licensing model:
+  - Free & Source-Available for academic, educational, and evaluation purposes.
+  - Proprietary Commercial License for commercial integration, fabrication,
+    and silicon tape-outs.
+
+For commercial licensing terms, silicon rights, or corporate partnerships,
+please contact the Copyright Holder:
+Varada Govind Aakula (via the official GitHub repository owner profile)
+
+==============================================================================
+4. REDISTRIBUTION & ATTRIBUTION
+==============================================================================
+Redistributions of source code, modified designs, or derivative works must:
+  a. Retain the above copyright notice, this list of conditions, and the
+     following disclaimer in all copies or substantial portions of the IP Core.
+  b. Provide clear attribution to the original author (Varada Govind Aakula)
+     and cite the Prolepsis project/publication where applicable.
+
+==============================================================================
+5. DISCLAIMER OF WARRANTY
+==============================================================================
+THE IP CORE AND HARDWARE DESIGN ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO
+EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE IP CORE, HARDWARE DESIGN, OR
+THE USE OR OTHER DEALINGS IN THIS WORK.
