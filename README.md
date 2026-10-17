@@ -5,7 +5,11 @@
 ![License](https://img.shields.io/badge/License-Non--Commercial%20Source--Available-red)
 ![Status](https://img.shields.io/badge/Status-Fully%20Implemented-brightgreen)
 [![Technical Manual](https://img.shields.io/badge/Documentation-Architecture%20Manual%20(PDF)-purple)](./Prolepsis_Explanation.pdf)
+[![IEEE Xplore Paper](https://img.shields.io/badge/IEEE%20Xplore-Paper%20(VDAT'26)-00629B?logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11704577)
 
+> 📄 **Published Research Paper:**  
+> Our peer-reviewed research paper is published in IEEE Xplore: [**Prolepsis: ISA-Agnostic RTL Predictive Thermal Management for Multicore Processors**](https://ieeexplore.ieee.org/document/11704577) (*2026 30th International Symposium on VLSI Design and Test*).
+>
 > 📘 **Comprehensive System Architecture & Technical Reference Manual:**  
 > For an exhaustive, textbook-grade technical explanation of the complete Prolepsis architecture, fixed-point Kalman prediction mathematics, microarchitectural pipeline stages, cache coherence, AXI4-Lite QoS interconnect, and FPGA verification, read the [**Prolepsis Technical Architecture Reference Manual (PDF)**](./Prolepsis_Explanation.pdf).
 
@@ -159,9 +163,25 @@ and microarchitectural specification is in
 
 ---
 
-## 📄 Paper
+## 📄 Paper & Citation
 
-**[Paper Coming Soon]** — I will update this section with the link to the published paper once it is available.
+Our research paper is published in the **IEEE Xplore Digital Library**:
+
+> 📑 **"Prolepsis: ISA-Agnostic RTL Predictive Thermal Management for Multicore Processors"**  
+> *Varada Govind Aakula and B. Santhi Bhushan*  
+> Published in: *2026 30th International Symposium on VLSI Design and Test (VDAT)*  
+> **Link:** [https://ieeexplore.ieee.org/document/11704577](https://ieeexplore.ieee.org/document/11704577)
+
+### BibTeX
+```bibtex
+@inproceedings{aakula2026prolepsis,
+  author    = {Aakula, Varada Govind and Bhushan, B. Santhi},
+  title     = {Prolepsis: ISA-Agnostic RTL Predictive Thermal Management for Multicore Processors},
+  booktitle = {2026 30th International Symposium on VLSI Design and Test (VDAT)},
+  year      = {2026},
+  url       = {https://ieeexplore.ieee.org/document/11704577}
+}
+```
 
 ---
 
